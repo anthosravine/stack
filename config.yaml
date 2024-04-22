@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: systemoverload
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -38,8 +38,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 📸
+        subtitle: “我來簡單講兩句。”
         avatar:
             enabled: true
             local: true
