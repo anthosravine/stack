@@ -188,17 +188,17 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/modo1ivre/
           params:
-              icon: brand-github
+              icon: brand-instagram
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: spotify
+          name: Spotify
+          url: https://open.spotify.com/user/obw57ahs9hefnv4rrpwfy9c7y?si=5cd051b1e19f41c0
           params:
-              icon: brand-twitter
+              icon: brand-spotify
 
 related:
     includeNewer: true
